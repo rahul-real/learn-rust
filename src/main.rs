@@ -111,6 +111,7 @@ fn main() {
         arrel2,
         arr_el.get(0).unwrap()
     );
+    let _a = 1;
     //slice
     let sl = "Slice";
     println!("{}", sl);
